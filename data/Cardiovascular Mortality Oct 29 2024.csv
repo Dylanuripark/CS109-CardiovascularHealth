@@ -1,9 +1,3 @@
-Indicator Code: CG1040
-"Indicator Name: Cardiovascular diseases"
-Export date: 10/30/2024 4:22:03 AM
-Source location: "WHO Mortality Database portal"
-"Indicator metadata: I00-I99"
-
 Region Code,Region Name,Country Code,Country Name,Year,Sex,Age group code,Age Group,Number,Percentage of cause-specific deaths out of total deaths,"Age-standardized death rate per 100 000 standard population","Death rate per 100 000 population"
 CSA,Central and South America,MEX,Mexico,2020,All,Age00,[0],205.00000000,1.06261663,,9.57617261,
 CSA,Central and South America,MEX,Mexico,2020,All,Age01_04,[1-4],83.00000000,2.14470284,,0.94125556,
